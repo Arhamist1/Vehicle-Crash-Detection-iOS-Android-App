@@ -61,7 +61,7 @@ Install my-project with npm
 <img width="524" alt="1" src="https://github.com/Arhamist1/Vehicle-Crash-Detection-iOS-Android-App/assets/149050552/4f149979-783c-4629-aebf-870b195fe4dc">
 <img width="628" alt="2" src="https://github.com/Arhamist1/Vehicle-Crash-Detection-iOS-Android-App/assets/149050552/49d5d362-513d-47a2-9f80-4fca5751f141">
 <img width="636" alt="3" src="https://github.com/Arhamist1/Vehicle-Crash-Detection-iOS-Android-App/assets/149050552/bec8feab-4b58-42c2-8980-f840575e9f15">
-![4](https://github.com/Arhamist1/Vehicle-Crash-Detection-iOS-Android-App/assets/149050552/ff7b0f3c-ac3a-43e9-a0fc-913a52d4bf23)
+<img width="636" alt="3" src="https://github.com/Arhamist1/Vehicle-Crash-Detection-iOS-Android-App/assets/149050552/ff7b0f3c-ac3a-43e9-a0fc-913a52d4bf23">
 
 
 
